@@ -1,0 +1,8 @@
+go 1.19
+
+use (
+	./1-helloworld
+	./2-httpecho
+	./3-middleware
+	./4-demoapp
+)
